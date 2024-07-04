@@ -1,5 +1,7 @@
 # QR Code Generator
 
+![](https://github.com/MeetInCode/QR_generator/blob/main/Untitled_%20Jul%204%2C%202024%208_31%20PM%20(2).gif)
+
 This project is a Node.js application that prompts the user for a URL, generates a QR code image for the URL, and saves the URL to a text file. It utilizes the `inquirer` package for user input, the `qr-image` package for generating the QR code, and the native `fs` module for file system operations.
 
 ## Installation
